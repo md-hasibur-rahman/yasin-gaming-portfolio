@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[15423,["/_next/static/chunks/627f8f9281e991b2.js","/_next/static/chunks/22286ab6be654094.js","/_next/static/chunks/2cc9dae44ed90c18.js","/_next/static/chunks/9006a9dbed1389eb.js"],"ProfileForm"]
-3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"UE6HNhT-3nsioiKJ93Woi","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"space-y-6","children":[["$","h1",null,{"className":"text-2xl font-semibold","children":"Profile"}],["$","$L2",null,{"initial":{"show_messages":true,"country":"Bangladesh","gamer_title":"blox fiurt ","show_personal":true,"full_name":"Yasin Rahman","updated_at":"2026-02-17T13:25:13.955Z","show_games":true,"bio":"dsfvbvnb","profile_image_url":"https://i.pinimg.com/736x/5d/3a/e9/5d3ae9ff9f2877edfcc9da87615918c3.jpg","show_friends":true,"gamer_name":"@yasin","age":14}}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/2cc9dae44ed90c18.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/9006a9dbed1389eb.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null

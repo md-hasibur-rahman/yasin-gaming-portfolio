@@ -1,3 +1,0 @@
-module.exports=[50700,(a,b,c)=>{b.exports=a.x("firebase-admin-a14c8a5423a75469",()=>require("firebase-admin-a14c8a5423a75469"))},30316,a=>{"use strict";var b=a.i(50700);let c=function(){let a=process.env.FIREBASE_SERVICE_ACCOUNT_KEY;if(!a)return null;let b=a.trim(),c=JSON.parse(b.startsWith("'")&&b.endsWith("'")||b.startsWith('"')&&b.endsWith('"')?b.slice(1,-1):b);return"string"==typeof c?.private_key&&(c.private_key=c.private_key.replace(/\\n/g,"\n")),c}();b.apps.length||(c?b.initializeApp({credential:b.credential.cert(c),projectId:"yasin-586e3"}):b.initializeApp({projectId:"yasin-586e3"}));let d=b.auth(),e=b.firestore();a.s(["adminAuth",()=>d,"adminDb",()=>e])}];
-
-//# sourceMappingURL=%5Broot-of-the-server%5D__68f923a1._.js.map

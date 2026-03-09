@@ -1,0 +1,24 @@
+[00:00:15.488] Server  LOG     ✓ Ready in 12.3s
+[00:00:57.467] Server  LOG     ○ Compiling / ...
+[00:01:37.457] Browser WARN    Image with src "https://i.pinimg.com/736x/5d/3a/e9/5d3ae9ff9f2877edfcc9da87615918c3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:37.457] Browser WARN    Image with src "https://i.pinimg.com/736x/0e/3b/94/0e3b94a92152d146429e9e468cdd62d6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:37.458] Browser WARN    Image with src "https://i.pinimg.com/736x/4d/27/69/4d2769b877c305bb2fb2bc77b9089311.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:37.458] Browser WARN    Image with src "https://i.pinimg.com/736x/5d/3a/e9/5d3ae9ff9f2877edfcc9da87615918c3.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:02:11.927] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:50.635] Browser WARN    Image with src "https://i.pinimg.com/736x/5d/3a/e9/5d3ae9ff9f2877edfcc9da87615918c3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:05:50.680] Browser WARN    Image with src "https://i.pinimg.com/736x/0e/3b/94/0e3b94a92152d146429e9e468cdd62d6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:05:50.841] Browser WARN    Image with src "https://i.pinimg.com/736x/4d/27/69/4d2769b877c305bb2fb2bc77b9089311.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:05:51.006] Browser WARN    Image with src "https://i.pinimg.com/736x/5d/3a/e9/5d3ae9ff9f2877edfcc9da87615918c3.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:06:13.036] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:17.820] Browser WARN    Image with src "https://i.pinimg.com/736x/5d/3a/e9/5d3ae9ff9f2877edfcc9da87615918c3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:17.820] Browser WARN    Image with src "https://i.pinimg.com/736x/0e/3b/94/0e3b94a92152d146429e9e468cdd62d6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:17.820] Browser WARN    Image with src "https://i.pinimg.com/736x/4d/27/69/4d2769b877c305bb2fb2bc77b9089311.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:17.820] Browser WARN    Image with src "https://i.pinimg.com/736x/5d/3a/e9/5d3ae9ff9f2877edfcc9da87615918c3.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:18:41.101] Server  LOG     ✓ Compiled in 4.2s
+[00:18:46.264] Server  LOG     ✓ Compiled in 538ms
+[00:19:05.863] Server  LOG     ✓ Compiled in 1673ms
+[00:19:49.971] Server  LOG     ✓ Compiled in 609ms
+[00:20:42.241] Server  LOG     ✓ Compiled in 439ms

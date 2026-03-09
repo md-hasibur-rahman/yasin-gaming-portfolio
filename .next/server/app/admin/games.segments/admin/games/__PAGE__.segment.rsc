@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[96320,["/_next/static/chunks/627f8f9281e991b2.js","/_next/static/chunks/22286ab6be654094.js","/_next/static/chunks/2e507c0a56698114.js"],"SectionCreateForm"]
+3:I[65273,["/_next/static/chunks/627f8f9281e991b2.js","/_next/static/chunks/22286ab6be654094.js","/_next/static/chunks/2e507c0a56698114.js"],"GameCreateForm"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"UE6HNhT-3nsioiKJ93Woi","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"space-y-8","children":[["$","h1",null,{"className":"text-2xl font-semibold","children":"Games & Categories"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 font-medium","children":"Sections / Categories"}],["$","$L2",null,{"sections":[]}],["$","div",null,{"className":"mt-4 grid gap-3","children":[[],["$","div",null,{"className":"text-zinc-500","children":"No sections yet."}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 font-medium","children":"Games"}],["$","$L3",null,{"sections":[]}],["$","div",null,{"className":"mt-4 grid gap-3","children":[[],["$","div",null,{"className":"text-zinc-500","children":"No games yet."}]]}]]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/2e507c0a56698114.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null
